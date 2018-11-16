@@ -1,1 +1,1 @@
-this is a Android project of Android studio
+Scaling Tree View in Android.
